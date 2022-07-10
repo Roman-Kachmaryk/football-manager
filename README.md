@@ -32,4 +32,4 @@ Getting Started
 2. Open it in your IDE.
 3. Run the project.
 4. Use Postman or any other software to send HTTP-requests and receive HTTP-responses.
-5. You can use the following Postman collection to send various HTTP-requests: https://go.postman.co/workspace/Team-Workspace~07c3f2a7-1f61-4805-87b5-7c3ff96574dc/collection/21520132-d8a63c56-ab8a-45c2-81fd-f211808f1125?action=share&creator=21520132.
+5. You can also use this [Postman collection](https://go.postman.co/workspace/Team-Workspace~07c3f2a7-1f61-4805-87b5-7c3ff96574dc/collection/21520132-d8a63c56-ab8a-45c2-81fd-f211808f1125?action=share&creator=21520132) to send various HTTP-requests.
