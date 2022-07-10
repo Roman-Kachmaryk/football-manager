@@ -28,4 +28,8 @@ Technology Stack
 
 Getting Started
 -------------
-1. Clone this project.g
+1. Clone this project.
+2. Open it in your IDE.
+3. Run the project.
+4. Use Postman or any other software to send HTTP-requests and receive HTTP-responses.
+5. You can use the following Postman collection to send various HTTP-requests: https://www.getpostman.com/collections/be3beb1e6374436f5ebc.
